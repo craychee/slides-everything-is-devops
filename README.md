@@ -1,7 +1,7 @@
-# Slides Basic Drupal Devops
+# Slides for Everything is DevOps
 
-[![CircleCI](https://circleci.com/gh/craychee/slides-basic-drupal-devops.svg?style=svg)](https://circleci.com/gh/craychee/slides-basic-drupal-devops)
+[![CircleCI](https://circleci.com/gh/craychee/slides-everything-is-devops.svg?style=svg)](https://circleci.com/gh/craychee/slides-everything-is-devops)
 
-Slides for DrupalCon Baltimore 2017
+GovCon 2017 Keynote
 
 A presentation by Michelle Krejci
